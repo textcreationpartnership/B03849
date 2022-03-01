@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M. Jurieu, the famous French Protestant divine, his account of the present persecution of the Protestants in France.</title>
+            <author>Jurieu, Pierre, 1637-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03849</idno>
+            <idno type="STC">Wing J1198</idno>
+            <idno type="STC">ESTC R179119</idno>
+            <idno type="EEBO-CITATION">52211858</idno>
+            <idno type="OCLC">ocm 52211858</idno>
+            <idno type="VID">175711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175711)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2747:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>M. Jurieu, the famous French Protestant divine, his account of the present persecution of the Protestants in France.</title>
+                  <author>Jurieu, Pierre, 1637-1713.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Sanders, one of his Majesties printers,</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Glasgow : </pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France --  Early works to 1800.</term>
+               <term>Persecution --  France --  Early works to 1800.</term>
+               <term>France --  Church history --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175711:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <head>M. JURIEU, the Famous French Proteſtant Divine, his Account of the preſent Perſecution of the <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> in <hi>France.</hi>
+            </head>
+            <p>
+               <hi>HE ſays,</hi> That he has aſſurance from good hands, that the preſent Perſecution does not advance Popery in <hi>France;</hi> but on the contrary, makes it loſe its credit, for the Violence of the perſecuters, and the Complaints of the perſecuted, hath occaſioned many People to en<g ref="char:EOLhyphen"/>quire into the Reformed Religion, that would not otherwiſe have done it: That the ſeizing of Prote<g ref="char:EOLhyphen"/>ſtant Books hath occaſioned their falling into the hands, and the convincing of many Men of Senſe, that would otherwiſe never have ſeen them: That the people in many Provinces long for a Reformati<g ref="char:EOLhyphen"/>on: That there are great Cities of many thouſand Inhabitants, where one third of them are enlighten<g ref="char:EOLhyphen"/>ed: That within this 15 years there have been more Papiſts converted in that Kingdom than ever: And that whereas formerly many of their Eccleſiaſticks, who pretended to turn Proteſtants, were meer Li<g ref="char:EOLhyphen"/>bertines, it is otherwiſe now, thoſe of them that come over being generally Perſons of great Parts &amp; Piety; and that if the Proteſtant States were as zea<g ref="char:EOLhyphen"/>lous to advance Truth as the Papiſts are to deſtroy it, many Popiſh Eccleſiaſticks of Note would de<g ref="char:EOLhyphen"/>ſert that Church, which be begs Proteſtant Sove<g ref="char:EOLhyphen"/>raigns to take into Conſideration.</p>
+            <p>
+               <hi>He adds,</hi> That for 40 years the Papiſts in <hi>France</hi> have been divided amongſt themſelves into <hi>Moli<g ref="char:EOLhyphen"/>nists</hi> and <hi>Janſeniſts:</hi> That there's a new Sect ſprung up call'd <hi>Quictiſts;</hi> and that the <hi>Socinians</hi> begin to grow very conſiderable amongſt them, &amp; have for a long time had footing in many of their moſt famous Convents. That he is well aſſur'd, that they gene<g ref="char:EOLhyphen"/>rally read <hi>Epiſcopius,</hi> whence they drink in <hi>Pelagia<g ref="char:EOLhyphen"/>niſm,</hi> and after wards that which the Biſhop of <hi>Meaux</hi> calls a moderate <hi>Socinianiſm,</hi> which is confirm'd by M. <hi>d. Valone,</hi> formerly a Canon of the Monaſtery of St. <hi>Genevive,</hi> who hath lately renounc'd Popery, and join'd himſelf to the French Church at <hi>Nuremborg</hi> in <hi>Germany,</hi> he ſays, in his Book, that in all the Mo<g ref="char:EOLhyphen"/>naſteries of the Canons Regulars of St. <hi>Genevive,</hi> there's a Party who call themſelves <hi>Scripturiſts,</hi> or the <hi>Little Church,</hi> and either publickly eſpouſe the <hi>Socinian</hi> Tenets, or maintain that it becomes great Wits to be for an univerſal Toleration: That the General, and all the great Officers of the Society, were of the Cabal: That M. <hi>de Valone</hi> having given Information of this, was thrown into Priſon by the General, where he had like to have loſt his Life, but being ſuſtained by the Abbot of <hi>
+                  <g ref="char:V">Ʋ</g>rbec,</hi> he procur'd an Order by the King to diſcharge the Abbot of St. <hi>Geneviva,</hi> and the reſt, and that the Society ſhould chuſe others in their place.</p>
+            <p>M. <hi>Jurieu</hi> adds, That Popery is in a worſe Con<g ref="char:EOLhyphen"/>dition in <hi>France</hi> than ever: that it is in the hands either of the Mad perſecuting Clergy, who ruine its Credit by their Cruelties, or in the hands of Laicks of no Religion, who Mock at all their Myſteries; and that the number of ſuch is ſo great at Court, and even amongſt the dignify'd Clergy, that it is almoſt incredible.</p>
+            <p>Then as to the State of the Proteſtant Religion there, <hi>he ſays,</hi> There are ſtill above a Million of Pro<g ref="char:EOLhyphen"/>teſtants in <hi>France;</hi> that notwithſtanding the laſt Per<g ref="char:EOLhyphen"/>ſecution is more cruel than the firſt, the Zeal and Courage of the Proteſtants is greater and greater; that not only particular Perſons, but whole Com<g ref="char:EOLhyphen"/>munities have boldly declared they will go no more to Maſs; and that they have done thus not only in the Hill Country of <hi>Languedoc, Rochell, Saintonge,</hi> &amp;c. but in a hundred other places, where they met the Intendants in multitudes, in their beſt Apparel, as if they had been deſigned for Victims at the Al<g ref="char:EOLhyphen"/>tars, and cryed out unanimouſly, That they would rather die than go to Maſs. That the Intendant <hi>Ba<g ref="char:EOLhyphen"/>ville,</hi> and his Italian Relation Count <hi>Broglio,</hi> thought to have given a fatal blow to the Reformation at <hi>Caſtres,</hi> where they Quartered the Soldiers upon the Proteſtants to live at Diſcretion, to exerciſe all man<g ref="char:EOLhyphen"/>ner of Cruelties upon them, to plunder them, and to torment their Bodies, that they ſhould have no reſt nor ſleep; that they impriſoned and baniſhed thoſe that had diſtinguiſh'd themſelves by their Zeal, de<g ref="char:EOLhyphen"/>priv'd the Parents of their Children, and committed all manner of Barbarities upon them; yet, notwith<g ref="char:EOLhyphen"/>ſtanding all this, they had not prevail'd upon more than 7 or 8 Perſons to promiſe to go to Maſs, and that the Proteſtants throughout the whole Na<g ref="char:EOLhyphen"/>tion had ſhewn the like Chriſtian Fortitude, where<g ref="char:EOLhyphen"/>as, in the firſt Perſecution, their Defection and weak<g ref="char:EOLhyphen"/>neſs was but too general.</p>
+            <p>He takes Notice of the ſeveral Methods which have been contriv'd by the Perſecutors, to expel the Proteſtant Religion out of <hi>France;</hi> as that of a ge<g ref="char:EOLhyphen"/>neral Exile; which was oppos'd by ſome of the great Men, as prejudicial to the Kingdom: And that of a general Maſſacre; for which Orders were diſ<g ref="char:EOLhyphen"/>patch'd to the Intendants and Governors of the Pro<g ref="char:EOLhyphen"/>vinces; but that the Couriers were re call'd upon the Advice of a certain Grandee. He queſtions the Truth of its having proceeded ſo far; but doubts nor of its having been propos'd and debated. And upon the whole draws this Concluſion, That there's no Ground to fear the total Ruine of the Reforma<g ref="char:EOLhyphen"/>tion in <hi>France;</hi> God will compleat his Work, but <hi>Lewis</hi> XVIth ſhall never finiſh his.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Glaſgow</hi> by <hi>Robert Sanders,</hi> One of His Majeſties Printers. 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
